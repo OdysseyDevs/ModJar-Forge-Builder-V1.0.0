@@ -1,0 +1,16 @@
+C:\vscode\ModJar Builder\bin\Debug\net8.0-windows\ModJar Builder.exe
+C:\vscode\ModJar Builder\bin\Debug\net8.0-windows\ModJar Builder.deps.json
+C:\vscode\ModJar Builder\bin\Debug\net8.0-windows\ModJar Builder.runtimeconfig.json
+C:\vscode\ModJar Builder\bin\Debug\net8.0-windows\ModJar Builder.dll
+C:\vscode\ModJar Builder\bin\Debug\net8.0-windows\ModJar Builder.pdb
+C:\vscode\ModJar Builder\obj\Debug\net8.0-windows\ModJar_Builder.Form1.resources
+C:\vscode\ModJar Builder\obj\Debug\net8.0-windows\ModJar Builder.csproj.GenerateResource.cache
+C:\vscode\ModJar Builder\obj\Debug\net8.0-windows\ModJar Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\vscode\ModJar Builder\obj\Debug\net8.0-windows\ModJar Builder.AssemblyInfoInputs.cache
+C:\vscode\ModJar Builder\obj\Debug\net8.0-windows\ModJar Builder.AssemblyInfo.cs
+C:\vscode\ModJar Builder\obj\Debug\net8.0-windows\ModJar Builder.csproj.CoreCompileInputs.cache
+C:\vscode\ModJar Builder\obj\Debug\net8.0-windows\ModJar Builder.dll
+C:\vscode\ModJar Builder\obj\Debug\net8.0-windows\refint\ModJar Builder.dll
+C:\vscode\ModJar Builder\obj\Debug\net8.0-windows\ModJar Builder.pdb
+C:\vscode\ModJar Builder\obj\Debug\net8.0-windows\ModJar Builder.genruntimeconfig.cache
+C:\vscode\ModJar Builder\obj\Debug\net8.0-windows\ref\ModJar Builder.dll
