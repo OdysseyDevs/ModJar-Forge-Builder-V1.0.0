@@ -29,3 +29,7 @@ This tool works with any Forge version, as long as the correct Java version is u
 - Forge 1.20.5+ requires Java 21 due to another JVM upgrade.
 - Older Forge versions (1.12.2 and below) always use Java 8.
 - If the wrong Java version is installed, Gradle will fail during the build.
+
+### Additional Info
+
+The ModJar-Builder-V1.0.0.zip is a fully functional version of ModJar BUilder that includes Java Runtime Environent 17 (jre17).
