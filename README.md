@@ -33,3 +33,5 @@ This tool works with any Forge version, as long as the correct Java version is u
 ### Additional Info
 
 The ModJar-Builder-V1.0.0.zip is a fully functional version of ModJar BUilder that includes Java Runtime Environent 17 (jre17).
+
+When using ModJar-Builder, it uses a lot of cpu usage (tested on Ryzen 5 3600).
