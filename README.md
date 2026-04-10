@@ -1,4 +1,4 @@
-# ModJar-Builder
+# ModJar-Forge-Builder
 
 ## Forge & Java Compatibility Chart
 
